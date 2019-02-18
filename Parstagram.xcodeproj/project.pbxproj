@@ -15,6 +15,7 @@
 		9CEBDFF2221B44E3005C4456 /* LoginViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 9CEBDFF1221B44E3005C4456 /* LoginViewController.swift */; };
 		9CEBDFF4221B4501005C4456 /* FeedViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 9CEBDFF3221B4501005C4456 /* FeedViewController.swift */; };
 		9CEBDFF6221B5111005C4456 /* CameraViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 9CEBDFF5221B5111005C4456 /* CameraViewController.swift */; };
+		9CEBDFF8221B6A7C005C4456 /* PostCell.swift in Sources */ = {isa = PBXBuildFile; fileRef = 9CEBDFF7221B6A7C005C4456 /* PostCell.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -29,6 +30,7 @@
 		9CEBDFF1221B44E3005C4456 /* LoginViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = LoginViewController.swift; sourceTree = "<group>"; };
 		9CEBDFF3221B4501005C4456 /* FeedViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = FeedViewController.swift; sourceTree = "<group>"; };
 		9CEBDFF5221B5111005C4456 /* CameraViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = CameraViewController.swift; sourceTree = "<group>"; };
+		9CEBDFF7221B6A7C005C4456 /* PostCell.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = PostCell.swift; sourceTree = "<group>"; };
 		D1754D7D03EAC409ECAE3F52 /* Pods_Parstagram.framework */ = {isa = PBXFileReference; explicitFileType = wrapper.framework; includeInIndex = 0; path = Pods_Parstagram.framework; sourceTree = BUILT_PRODUCTS_DIR; };
 /* End PBXFileReference section */
 
@@ -90,6 +92,7 @@
 				9CEBDFF1221B44E3005C4456 /* LoginViewController.swift */,
 				9CEBDFF3221B4501005C4456 /* FeedViewController.swift */,
 				9CEBDFF5221B5111005C4456 /* CameraViewController.swift */,
+				9CEBDFF7221B6A7C005C4456 /* PostCell.swift */,
 			);
 			path = Parstagram;
 			sourceTree = "<group>";
@@ -224,6 +227,7 @@
 				9CEBDFF6221B5111005C4456 /* CameraViewController.swift in Sources */,
 				9CEBDFF4221B4501005C4456 /* FeedViewController.swift in Sources */,
 				9CEBDFE0221B430E005C4456 /* AppDelegate.swift in Sources */,
+				9CEBDFF8221B6A7C005C4456 /* PostCell.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
